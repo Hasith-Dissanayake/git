@@ -1,12 +1,13 @@
-- this ifds feature a branch -
--this nefdwly added line-
+- this is feature a branch -
+-this newly added line-
 
-this is a dfdsimple line added for testing git push
+I added new some good 
+lines
+
+i am the good developer who worked correctly
 
 
-this is a bad 
-line
-just
-i added
-for fun
+
+
+
 
