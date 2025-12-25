@@ -1,7 +1,7 @@
 - this is feature a branch -
 -this newly added line-
 
-this is a simple line added for testing git push
+I added new some good 
+lines
 
-
-//check push
+i am the good developer who worked correctly
